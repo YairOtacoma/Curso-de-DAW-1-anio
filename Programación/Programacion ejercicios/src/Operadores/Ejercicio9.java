@@ -29,10 +29,10 @@ public class Ejercicio9 {
         double costeTotal = precioBebidasTotal+precioBocadillosTotal;
         double pagoAlumno = costeTotal/nAlumnos;
 
-        System.out.println("El precio de las bebidas en total fue de: "+precioBebidasTotal);
-        System.out.println("El precio de los bocadillos en total fue de: "+precioBocadillosTotal);
-        System.out.println("El coste total fue de: "+costeTotal);
-        System.out.println("Cada alumno tuvo que pagar: "+pagoAlumno);
+        System.out.println("ARTICULO\t\tCANTIDAD\t\t\tCOSTE\t\t\t\tTOTAL");
+        System.out.printf("%s\t\t\t\t%d\t\t\t\t%.2f\t\t\t\t%.2f\n", "Bebidas", nBebidas, pBebida, precioBebidasTotal);
+        System.out.printf("%s\t\t\t\t%d\t\t\t\t%.2f\t\t\t\t%.2f\n", "Bocatas", nBocadillos, pBocadillo, precioBocadillosTotal);
+        System.out.printf("%s\t\t\t\t\t\t\t\t\t\t\t\t%.2f\n", "Coste total", costeTotal);
 
 
 

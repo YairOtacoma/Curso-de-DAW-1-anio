@@ -10,7 +10,6 @@ public class Ejercicio11 {
         System.out.println("Número entero:");
         int entero = lector.nextInt();
 
-        int division = entero/2;
         int resto = entero%2;
 
         boolean esPar = resto == 0;

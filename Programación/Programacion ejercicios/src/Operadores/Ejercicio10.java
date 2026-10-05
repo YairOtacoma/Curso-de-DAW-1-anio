@@ -20,6 +20,8 @@ public class Ejercicio10 {
         System.out.println("Unidades: ");
         int unidades = lector.nextInt();
 
+        System.out.println("Número introducido es: "+decenasMil+unidadesMil+centenas+decenas+unidades);
+
         int potencia = 10;
 
         double dM = decenasMil*(Math.pow(potencia,5));

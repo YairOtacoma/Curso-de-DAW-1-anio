@@ -14,18 +14,21 @@ public class Ejercicio8 {
         System.out.println("Grados centígrados: ");
         double c = lector.nextDouble();
 
+        double cAf = ((9*c)/5)+32;
+        double cAk = c+273.15;
+
         System.out.println("Grados farenheit: ");
         double f = lector.nextDouble();
+
+        double fAc = (5*(f-32))/9;
+        double fAk = ((5*(f-32))/9)+273.15;
 
         System.out.println("Grados kelvin: ");
         double k = lector.nextDouble();
 
-        double fAc = (5*(f-32))/9;
         double kAc = (k-273.15);
         double kAf = ((9*(k-273.15))/5)+32;
-        double cAf = ((9*c)/5)+32;
-        double cAk = c+273.15;
-        double fAk = ((5*(f-32))/9)+273.15;
+
 
         System.out.println("Si tengo "+c+" grados centígrados, en farenheint tendré "+(float)cAf);
         System.out.println("Si tengo "+c+" grados centígrados, en kelvin tendré "+(float)cAk);

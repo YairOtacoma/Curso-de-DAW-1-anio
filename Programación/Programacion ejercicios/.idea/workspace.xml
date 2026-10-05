@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="b50fcd5c-12be-4d76-8dac-91b2ff6b8402" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operadores/Ejercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/Ejercicio10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operadores/Ejercicio11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/Ejercicio11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operadores/Ejercicio12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/Ejercicio12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Operadores/Ejercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/Ejercicio8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operadores/Ejercicio9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/Ejercicio9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +50,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Ejercicio1.executor": "Run",
     "Application.Ejercicio10.executor": "Run",
     "Application.Ejercicio11.executor": "Run",
     "Application.Ejercicio11b.executor": "Run",
-    "Application.Ejercicio12.executor": "Run",
+    "Application.Ejercicio12.executor": "Debug",
     "Application.Ejercicio13.executor": "Run",
     "Application.Ejercicio14.executor": "Run",
     "Application.Ejercicio15.executor": "Run",
+    "Application.Ejercicio6.executor": "Run",
+    "Application.Ejercicio7.executor": "Run",
     "Application.Ejercicio8.executor": "Run",
     "Application.Ejercicio9.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -61,7 +68,8 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="SharedIndexes">

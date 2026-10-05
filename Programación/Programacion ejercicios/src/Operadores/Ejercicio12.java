@@ -10,17 +10,15 @@ public class Ejercicio12 {
         Scanner lector = new Scanner(System.in);
 
         System.out.println("Primera cadena");
-        String cadena1 = lector.next();
+        String cadena1 = lector.nextLine();
 
         System.out.println("Segunda cadena");
-        String cadena2 = lector.next();
+        String cadena2 = lector.nextLine();
 
         boolean iguales = cadena1.equals(cadena2);
         //Para comprar dos strings no es con ==, sino con ->.equls().
-        boolean menorQue = cadena1.compareTo(cadena2) <0;
-        /*Para comparar-> usar .compareTo() y poner <0 porque el < 0 convierte
-         el resultado numérico de compareTo() en true o false.
-         */
+        boolean menorQue = cadena1.length() < cadena2.length();
+        //Para comparar longitud ->.length()
         boolean distintas = !cadena1.equalsIgnoreCase(cadena2);
         //Para saber si son distintas con ->.equalsIgnoreCase
         //IMPORTANTE-> Poner la exclamacion al principio "!"
