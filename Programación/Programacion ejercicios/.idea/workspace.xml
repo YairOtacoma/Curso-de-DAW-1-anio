@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b50fcd5c-12be-4d76-8dac-91b2ff6b8402" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operadores/Ejercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/Ejercicio10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operadores/Ejercicio11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/Ejercicio11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operadores/Ejercicio12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/Ejercicio12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operadores/Ejercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/Ejercicio8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operadores/Ejercicio9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operadores/Ejercicio9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,30 +43,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Ejercicio1.executor": "Run",
-    "Application.Ejercicio10.executor": "Run",
-    "Application.Ejercicio11.executor": "Run",
-    "Application.Ejercicio11b.executor": "Run",
-    "Application.Ejercicio12.executor": "Debug",
-    "Application.Ejercicio13.executor": "Run",
-    "Application.Ejercicio14.executor": "Run",
-    "Application.Ejercicio15.executor": "Run",
-    "Application.Ejercicio6.executor": "Run",
-    "Application.Ejercicio7.executor": "Run",
-    "Application.Ejercicio8.executor": "Run",
-    "Application.Ejercicio9.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Ejercicio1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio11b.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio12.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Ejercicio13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio9.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
