@@ -1,0 +1,11 @@
+Ejercicio básico POO Java. Clase cuenta
+
+
+Ejercicio básico de programación orientada a objeto en Java
+Escribe una clase Cuenta para representar una cuenta bancaria. Los datos de la cuenta son los siguientes: nombre cliente (String), número de cuenta (String), tipo de interés (double) y saldo (double)
+La clase contendrá los siguientes métodos:
+-Constructor por defecto
+-Constructor con todos los parámetros
+-Constructoor copia
+Métodos setters/getters para asignar y obtener los datos de la cuenta.
+Método ingreso y reintegro. Un ingreso indica que aumenta la cantidad
