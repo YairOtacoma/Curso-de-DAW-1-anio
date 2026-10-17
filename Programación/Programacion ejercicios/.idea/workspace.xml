@@ -2,10 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b50fcd5c-12be-4d76-8dac-91b2ff6b8402" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Módulo preofesional optativo/Modulo profesinal optativo ejercicios/src/Ejercicio1/enunciado.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.mylyn/.taskListIndex/segments_1" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.mylyn/.taskListIndex/segments_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.mylyn/repositories.xml.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.mylyn/repositories.xml.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.mylyn/tasks.xml.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.mylyn/tasks.xml.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Teoria Programacion/src/Objetos/model/Entrada.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Teoria Programacion/src/Objetos/model/Entrada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Teoria Programacion/src/Objetos/model/Jugador.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Teoria Programacion/src/Objetos/model/Jugador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teoria Programacion/src/Calculadora/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Teoria Programacion/src/Calculadora/Calculadora.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,34 +60,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Ejercicio1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio11b.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio12.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Ejercicio13.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio14.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio15.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Persona.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AprobadoSuspenso.executor": "Run",
+    "Application.CalificacionLetra.executor": "Run",
+    "Application.Comparar.executor": "Run",
+    "Application.ContenidoPorEdad.executor": "Run",
+    "Application.Contraseña.executor": "Run",
+    "Application.Descuento.executor": "Run",
+    "Application.DescuentoPorNivel.executor": "Run",
+    "Application.Edad.executor": "Run",
+    "Application.Ejercicio1.executor": "Run",
+    "Application.Ejercicio10.executor": "Run",
+    "Application.Ejercicio11.executor": "Run",
+    "Application.Ejercicio11b.executor": "Run",
+    "Application.Ejercicio12.executor": "Debug",
+    "Application.Ejercicio13.executor": "Run",
+    "Application.Ejercicio14.executor": "Run",
+    "Application.Ejercicio15.executor": "Run",
+    "Application.Ejercicio6.executor": "Run",
+    "Application.Ejercicio7.executor": "Run",
+    "Application.Ejercicio8.executor": "Run",
+    "Application.Ejercicio9.executor": "Run",
+    "Application.EntradaParque.executor": "Run",
+    "Application.IMC.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.NumeroParImpar.executor": "Run",
+    "Application.NumeroPosNeg.executor": "Run",
+    "Application.Persona.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

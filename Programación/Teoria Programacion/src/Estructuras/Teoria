@@ -1,0 +1,17 @@
+Estructuras de control - UML
+Estructuras de selección
+
+    if -> ejecuta un bloque de código siempre y cuando una condición sea true.
+    En caso de no serlo "ejecutará otro bloque" (depende de como se escriba).
+
+        if
+        if/else
+        if/else if/else if/else
+
+    switch
+
+Estructuras de repetición
+
+    for - foreach
+    while
+    do - while

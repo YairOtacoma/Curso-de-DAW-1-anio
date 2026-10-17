@@ -8,11 +8,12 @@ public class Calculadora {
     //constructores -> el vacío esta por defecto, siempre y cuando no tenga ningun construtor escrito
     //realizar el resto de funcionalidades del sistema -> resta, multiplicacion, division, modulo
     public Calculadora(){}
-    public void sumar(int operando1, int operando2){
+    public double sumar(int operando1, int operando2){
         this.operando1 = operando1;
         this.operando2 = operando2;
         this.resultado = this.operando1 + this.operando2;
         System.out.println("Suma completada");
+        return resultado;
     }
 
     public void restar(int operando1, int operando2){
@@ -33,7 +34,7 @@ public class Calculadora {
     public void division(int operando1, int operando2){
         this.operando1 = operando1;
         this.operando2 = operando2;
-        this.resultado = this.operando1 / this.operando2;
+        this.resultado = (double)this.operando1 / this.operando2;
         System.out.println("División completada");
     }
 
