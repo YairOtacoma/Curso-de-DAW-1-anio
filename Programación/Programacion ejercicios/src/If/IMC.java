@@ -1,6 +1,5 @@
-package EstructurasDeControl;
+package If;
 
-import javax.swing.*;
 import java.util.Scanner;
 
 public class IMC {

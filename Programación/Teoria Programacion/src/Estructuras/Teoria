@@ -8,10 +8,11 @@ Estructuras de selección
         if/else
         if/else if/else if/else
 
-    switch
+    switch-> al utilizar un switch se evalúa un valor no un boolean
 
-Estructuras de repetición
+Estructuras de repetición -> ejecutar un bloque numero de veces que se indique.
 
-    for - foreach
-    while
-    do - while
+    for / foreach -> repetir un bloque dependiendo de un rango de datos (0veces.........Nveces)
+    while         -> repetir un bloque dependiendo de una condición boolean (0veces........Nveces)
+    do - while    -> ejecuto un bloque y luego repetir un bloque dependiendo de una condición boolean
+                     (1veces........Nveces)

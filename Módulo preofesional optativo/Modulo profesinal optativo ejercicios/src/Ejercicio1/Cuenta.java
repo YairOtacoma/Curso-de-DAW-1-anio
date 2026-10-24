@@ -29,7 +29,14 @@ public class Cuenta {
         this.saldo = 750;
     }
 
+    //CONSTRUCTOR COPIA
 
+    public Cuenta(Cuenta c){
+        this.cliente = c.cliente;
+        this.numeroCuenta = c.numeroCuenta;
+        this.interes = c.interes;
+        this.saldo = c.saldo;
+    }
 
     //GET -> public + tipo de valor+ nombre (){
     //return valor;
@@ -75,6 +82,39 @@ public class Cuenta {
 
     public void setSaldo(double saldo){
         this.saldo = saldo;
+    }
+
+    public boolean ingreso(double cantidad){
+        boolean resultado = true;
+        if(cantidad < 0){
+            resultado = false;
+        }else{
+            this.saldo += cantidad; //this.saldo 0 this.saldo + cantidad
+        }
+
+        return  resultado;
+    }
+
+    public boolean reintegro(double cantidad){
+        boolean resultado = true;
+        if(cantidad < 0 || cantidad > this.saldo){
+            resultado = false;
+        }else{
+            this.saldo -= cantidad;
+        }
+        return resultado;
+    }
+
+    public boolean transferencia(Cuenta cuentaDestino, double dinero){
+        boolean resultado = true;
+        if(dinero < 0 || dinero > this.saldo){
+            resultado = false;
+        }else{
+            reintegro(dinero);
+            cuentaDestino.ingreso(dinero);
+        }
+
+        return resultado;
     }
 
 }

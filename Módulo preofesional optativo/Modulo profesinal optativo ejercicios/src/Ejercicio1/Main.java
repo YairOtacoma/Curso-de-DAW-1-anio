@@ -21,7 +21,10 @@ public class Main {
         Cuenta cliente1 = new Cuenta("Pepe", "ES1827382139213",4.5,1000);
         Cuenta cliente2 = new Cuenta("Marcos","ES1923719827398",7.8,2000);
         Cuenta cliente3 = new Cuenta("Patri","ES38472983478934",8.9);
-        System.out.println(cliente3.getSaldo());
+        System.out.println(cliente2.getSaldo());
+
+        Cuenta c4 = new Cuenta(cliente2);
+        System.out.println(c4.getSaldo());
 
     }
 }

@@ -2,24 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b50fcd5c-12be-4d76-8dac-91b2ff6b8402" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/If/Contraseña.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.mylyn/.taskListIndex/segments_1" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.mylyn/.taskListIndex/segments_1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.mylyn/repositories.xml.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.mylyn/repositories.xml.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.mylyn/tasks.xml.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.mylyn/tasks.xml.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.resources/.history/f4/5015d78bdbc70011195bef7283ad2715" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.resources/.projects/EjemposDepuración/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.resources/.root/2.tree" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Entornos de desarrollo/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Módulo preofesional optativo/Modulo profesinal optativo ejercicios/src/Ejercicio1/Cuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Módulo preofesional optativo/Modulo profesinal optativo ejercicios/src/Ejercicio1/Cuenta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Módulo preofesional optativo/Modulo profesinal optativo ejercicios/src/Ejercicio1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Módulo preofesional optativo/Modulo profesinal optativo ejercicios/src/Ejercicio1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Teoria Programacion/src/Calculadora/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Teoria Programacion/src/Calculadora/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstructurasDeControl/AprobadoSuspenso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/If/AprobadoSuspenso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstructurasDeControl/CalificacionLetra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/If/CalificacionLetra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstructurasDeControl/Comparar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/If/Comparar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstructurasDeControl/ContenidoPorEdad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/If/ContenidoPorEdad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstructurasDeControl/Contraseña.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstructurasDeControl/Descuento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/If/Descuento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstructurasDeControl/DescuentoPorNivel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/If/DescuentoPorNivel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstructurasDeControl/Edad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/If/Edad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstructurasDeControl/EntradaParque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/If/EntradaParque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstructurasDeControl/IMC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/If/IMC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstructurasDeControl/NumeroParImpar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/If/NumeroParImpar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstructurasDeControl/NumeroPosNeg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/If/NumeroPosNeg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teoria Programacion/src/Estructuras/SentenciasSelección.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Teoria Programacion/src/Estructuras/MainIfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teoria Programacion/src/Estructuras/Teoria" beforeDir="false" afterPath="$PROJECT_DIR$/../Teoria Programacion/src/Estructuras/Teoria" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +68,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ACalificacion.executor": "Run",
     "Application.AprobadoSuspenso.executor": "Run",
+    "Application.CalculadoraPrecioEntrada.executor": "Run",
+    "Application.CalculadoraSwitch.executor": "Run",
+    "Application.Calificacion.executor": "Run",
     "Application.CalificacionLetra.executor": "Run",
     "Application.Comparar.executor": "Run",
     "Application.ContenidoPorEdad.executor": "Run",
     "Application.Contraseña.executor": "Run",
+    "Application.Dado.executor": "Run",
     "Application.Descuento.executor": "Run",
     "Application.DescuentoPorNivel.executor": "Run",
+    "Application.DiaDeLaSemana.executor": "Run",
+    "Application.DiaSemana.executor": "Run",
     "Application.Edad.executor": "Run",
     "Application.Ejercicio1.executor": "Run",
     "Application.Ejercicio10.executor": "Run",
@@ -78,16 +91,29 @@
     "Application.Ejercicio13.executor": "Run",
     "Application.Ejercicio14.executor": "Run",
     "Application.Ejercicio15.executor": "Run",
+    "Application.Ejercicio3.executor": "Run",
     "Application.Ejercicio6.executor": "Run",
     "Application.Ejercicio7.executor": "Run",
     "Application.Ejercicio8.executor": "Run",
     "Application.Ejercicio9.executor": "Run",
+    "Application.EjercicioAdivinacion.executor": "Run",
     "Application.EntradaParque.executor": "Run",
+    "Application.EnvioPaquete.executor": "Run",
+    "Application.EstacionesDelAnio.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.ForYSwitch.executor": "Run",
     "Application.IMC.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MenuOpciones.executor": "Run",
+    "Application.NotaPorTeclado.executor": "Run",
     "Application.NumeroParImpar.executor": "Run",
     "Application.NumeroPosNeg.executor": "Run",
+    "Application.NumerosParesImpares.executor": "Run",
     "Application.Persona.executor": "Run",
+    "Application.PrecioEntrada.executor": "Run",
+    "Application.Prestamo.executor": "Run",
+    "Application.SumaNumeros.executor": "Run",
+    "Application.TablaDeMultiplicar.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -97,7 +123,8 @@
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.general"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -120,5 +147,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
