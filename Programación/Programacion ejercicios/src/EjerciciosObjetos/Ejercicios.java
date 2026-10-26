@@ -23,10 +23,25 @@ public class Ejercicios {
             case 2 ->{
                 System.out.println("Que cantidad quieres sacar");
                 int sacar = lector.nextInt();
-
+                if (sacar<1 || cajero.getSaldo()<sacar){
+                    System.out.println("Fallo en el proceso");
+                }else{
+                    cajero.retirarDinero(sacar);
+                }
             }
+            case 3 -> {
+                System.out.println("Cuanto quieres depositar");
+                int ingreso = lector.nextInt();
+                if(ingreso<1){
+                    System.out.println("Error al introducir el dinero");
+                } else {
+                    cajero.ingresarDinero(ingreso);
+                }
+            }
+            case 4 -> System.out.println("Saliendo...");
+
         }
-        }while
+        }while(opcion !=4);
 
 
     }
