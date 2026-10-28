@@ -1,4 +1,4 @@
-Estructuras de control - UML
+Estructuras de control - UML -> que parte se ejecuta del código
 Estructuras de selección
 
     if -> ejecuta un bloque de código siempre y cuando una condición sea true.
@@ -16,3 +16,14 @@ Estructuras de repetición -> ejecutar un bloque numero de veces que se indique.
     while         -> repetir un bloque dependiendo de una condición boolean (0veces........Nveces)
     do - while    -> ejecuto un bloque y luego repetir un bloque dependiendo de una condición boolean
                      (1veces........Nveces)
+
+Exceptions: (momentos del codigo que "pueden" fallar y se les pone solucion al posible fallo)
+
+codigo -> play -> compilar -> ejecuta JVM
+
+0. No hay error de escritura. Compila el programa.
+    -se ejecuta de forma correcta
+    -no se ejecuta de forma correcta
+    -compila pero en momento de ejecución falla -> Error solucionable
+
+1. Error de codificación. Tengo un error en el propio IDE. No se compila

@@ -46,6 +46,12 @@ public class MainWhile {
                         System.out.println("Movil Bbloquead");
                     }
                 }
+            }while (intentos>0);
+
+            if(bloqueado){
+                System.out.println("Movil bloqueado");
+            } else {
+                System.out.println("Movil desbloqueado");
             }
         }
     }
